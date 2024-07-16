@@ -1,0 +1,1 @@
+Files for Neovim configuration
